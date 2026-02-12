@@ -554,14 +554,10 @@ version 1.2.0 available at http://contributor-covenant.org/version/1/2/0/.
 
 .. _`User Guide`: http://faust.readthedocs.io/en/latest/userguide/index.html
 
-.. |build-status| image:: https://secure.travis-ci.org/robinhood/faust.png?branch=master
-    :alt: Build status
-    :target: https://travis-ci.org/robinhood/faust
-
 .. |coverage| image:: https://codecov.io/github/robinhood/faust/coverage.svg?branch=master
     :target: https://codecov.io/github/robinhood/faust?branch=master
 
-.. |license| image:: https://img.shields.io/pypi/l/faust.svg
+.. |license| image:: https://img.shields.io/badge/license-BSD%203--Clause-brightgreen
     :alt: BSD License
     :target: https://opensource.org/licenses/BSD-3-Clause
 
